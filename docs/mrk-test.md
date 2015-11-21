@@ -1,7 +1,13 @@
-**Intro**
+# Mark
 
-**Name:** Mark  
-**Location:** Singapore  
-**Food**: Hamburger  
-**Hobby**: Coding  
-**Color**: Blue
+**Name:** Mark
+
+**Location:** Singapore
+
+**Food:** Hamburger
+
+**Hobby:** Coding
+
+**Color:** Blue
+
+**Occupation:** Software Engineer
