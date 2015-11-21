@@ -1,6 +1,7 @@
 **Intro**
 
-- Mark
-- Singapore
-- Hamburger
-- Coding
+**Name:** Mark
+**Location**: Singapore
+**Food**: Hamburger
+**Hobby**: Coding
+**Color**: Blue
